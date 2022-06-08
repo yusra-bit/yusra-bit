@@ -1,4 +1,4 @@
-![grey minimalist sarcastic twitter header](https://user-images.githubusercontent.com/60106667/172705832-80178644-4355-410d-9f09-200a9f722599.gif)
+![grey minimalist sarcastic twitter header (1)](https://user-images.githubusercontent.com/60106667/172706623-32e42226-8dc7-4a3d-b917-982ef0ab792f.gif)
 
 <h3 align="center">A passionate software engineer who enjoys learning new technologies 🚀.</h3>
 
