@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **ReactJs & Tailwind**
 
-- 📝 I regularly write articles on [yusrastack.hashnode.dev](yusrastack.hashnode.dev)
+- 📝 Sometimes I write on [yusrastack.hashnode.dev](yusrastack.hashnode.dev)
 
 - 📫 How to reach me **yusra.abdi999@gmail.com**
 
