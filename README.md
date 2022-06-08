@@ -3,7 +3,8 @@
 <!--
 **yusra-bit/yusra-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started:![grey minimalist sarcastic twitter header](https://user-images.githubusercontent.com/60106667/172704199-2f884f3a-51ba-40dd-8bb3-f424ac334309.gif)
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
