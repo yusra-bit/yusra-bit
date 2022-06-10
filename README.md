@@ -2,6 +2,8 @@
 
 <h3 align="center">A passionate software engineer who enjoys learning new technologies 🚀.</h3>
 
+> Yesterday I was clever, so I wanted to change the world. Today I am wise, so I am changing myself. ✨ - Rumi
+
 - 🌱 I’m currently learning **ReactJs & Tailwind**
 
 - 📝 Sometimes I write on [yusrastack.hashnode.dev](yusrastack.hashnode.dev)
