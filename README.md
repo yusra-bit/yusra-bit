@@ -20,10 +20,7 @@
 Here are some of the projects I have been working on recently
 
 
- 
-[![yusra-bit/readie - GitHub](https://gh-card.dev/repos/yusra-bit/readie.svg)](https://github.com/yusra-bit/readie)
-
-
+[![yusra-bit's GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=yusra-bit&repo=readie&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
