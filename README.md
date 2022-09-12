@@ -14,23 +14,21 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/yusra-ahmed-14541b209/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yusra-ahmed-14541b209/" height="30" width="40" /></a>
 </p>
-### Latest Projects 
+
+ ### Latest Projects:
 
 Here are some of the projects I have been working on recently
 <!-- 
 | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=m-oniqu3&repo=bookmark-app&theme=gotham)](https://github.com/anuraghazra/github-readme-stats) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=m-oniqu3&repo=finest-co&theme=gotham)](https://github.com/anuraghazra/github-readme-stats) |
 | ------------- | ------------- | -->
 
-<div align="left">
- 
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yusra-bit&repo=CRUD-APP)](https://github.com/anuraghazra/github-readme-stats)
 
- 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yusra-bit&repo=CRUD-APP&theme=gotham&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) 
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yusra-bit&repo=Readie&theme=rose_pine&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
- 
-</div>
+
+
+
 
 
 <h3 align="left">Tech Stack :</h3>
