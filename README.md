@@ -20,7 +20,7 @@
 Here are some of the projects I have been working on recently
 
 
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yusra-bit&repo=Readie&theme=rose_pine)](https://github.com/anuraghazra/github-readme-stats)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yusra-bit&repo=Readie&theme=rose_pine&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
