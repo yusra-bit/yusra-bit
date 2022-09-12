@@ -23,8 +23,9 @@ Here are some of the projects I have been working on recently
 
 <div align="center">
  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=m-oniqu3&repo=bookmark-app&theme=gotham&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=m-oniqu3&repo=finest-and-co&theme=gotham&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yusra-bit&repo=CRUD-APP&theme=gotham&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) 
+
+
  
 </div>
 
