@@ -18,9 +18,9 @@
  ### Latest Projects:
 
 Here are some of the projects I have been working on recently
-<!-- 
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=m-oniqu3&repo=bookmark-app&theme=gotham)](https://github.com/anuraghazra/github-readme-stats) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=m-oniqu3&repo=finest-co&theme=gotham)](https://github.com/anuraghazra/github-readme-stats) |
-| ------------- | ------------- | -->
+
+| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yusra-bit&repo=Readie&theme=gotham)](https://github.com/anuraghazra/github-readme-stats) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yusra-bit&repo=Readie&theme=gotham)](https://github.com/anuraghazra/github-readme-stats) |
+| ------------- | ------------- | 
 
 
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yusra-bit&repo=Readie&theme=rose_pine&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
