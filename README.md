@@ -15,14 +15,6 @@
 <a href="https://www.linkedin.com/in/yusra-ahmed-14541b209/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yusra-ahmed-14541b209/" height="30" width="40" /></a>
 </p>
 
- ### Latest Projects:
-
-Here are some of the projects I have been working on recently
-
-
-[![yusra-bit's GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=yusra-bit&repo=readie&theme=react)](https://github.com/anuraghazra/github-readme-stats)
-
-
 
 
 <h3 align="left">Tech Stack :</h3>
