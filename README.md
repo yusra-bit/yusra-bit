@@ -9,6 +9,7 @@
 - 📝 Sometimes I write on [yusrastack](https://yusrastack.hashnode.dev/)
 
 - 📫 How to reach me **yusra.abdi999@gmail.com**
+- 📌 check out some of the projects i build, i pinned it below.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
