@@ -1,10 +1,8 @@
-![grey minimalist sarcastic twitter header (1)](https://user-images.githubusercontent.com/60106667/172706623-32e42226-8dc7-4a3d-b917-982ef0ab792f.gif)
 
 
-> Yesterday I was clever, so I wanted to change the world. Today I am wise, so I am changing myself. ✨ - Rumi
 
 
-* 📝 Backend Developer Intern
+* Junior Backend Developer
 
 * 📫 How to reach me **yusra.abdi999@gmail.com**
 *  🖥️  See my portfolio & CV at [yusra-bit/portfolio](https://yusra-bit.github.io/portfolio/)
